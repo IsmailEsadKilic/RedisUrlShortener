@@ -1,0 +1,6 @@
+@Redurl_HostAddress = http://localhost:5021
+
+GET {{Redurl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
